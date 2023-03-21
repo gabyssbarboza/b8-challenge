@@ -2,7 +2,7 @@
 
 **Link preview**: https://trusting-lamport-ab7749.netlify.app/
 
-Projeto feito como teste técnico para a b8one.
+
 
 ## Case 💬
 
